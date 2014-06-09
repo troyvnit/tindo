@@ -48,6 +48,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\FQA.cs" />
+    <Compile Include="Models\Menu.cs" />
+    <Compile Include="Models\Quicklink.cs" />
     <Compile Include="Models\TinDoUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
